@@ -1,3 +1,6 @@
+# Random Quote Machine
+![image](https://user-images.githubusercontent.com/92535121/199124896-9e0e68ac-7f55-4477-bb88-27d65e2ff785.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
